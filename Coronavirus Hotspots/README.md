@@ -4,6 +4,7 @@
   <ul><li>Cases have increased by greater than 5% over the past 14 days;</li>
   <li>Positivity rate (7-day rolling average) is greater than 10% <b>OR</b></li>
   <li>Positivity rate has increased by more than one percentage point over the past 14 days</li>
+  <li>New daily cases per million population are 100 or greater</li>
   </ul>
 
 ## Metrics Included:
