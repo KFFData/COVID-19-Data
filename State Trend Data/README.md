@@ -1,6 +1,6 @@
 # COVID-19 State Trend Data 
 
-Due to variation in how states report test data, we no longer report tests or positivity rates prior to April 1 and we prioritize units of test encounters and specimens above people. Hover over each state's trend to see which units of test we're reporting. Comparisons between states using different units is not recommended.
+Due to variation in how states report test data, we no longer report data prior to April 1 and we prioritize units of test encounters and specimens above people. Hover over each state's trend to see which units of test we're reporting. Comparisons between states using different units is not recommended.
 
 # CODEBOOK:
 <ul>
