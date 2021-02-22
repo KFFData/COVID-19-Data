@@ -30,4 +30,8 @@ Due to variation in how states report test data, we no longer report data prior 
 <li>case_permill: Daily cases per million population</li>
 <li>death_permill: Daily deaths per million population</li>
 <li>test_permill: Daily tests per million population</li>  
+<li>distributed: Cumulative number of delivered vaccines</li>
+<li>administered: Cumulative number of administered vaccines</li>
+<li>one_dose: Cumulative number of people with 1+ dose</li>
+<li>two_dose: Cumulative number of people with 2 doses</li>  
 </ul>
