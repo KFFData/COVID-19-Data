@@ -1,5 +1,5 @@
 # Country Trend Data
-This folder contains all the data powering the upcoming KFF Global COVID-19 Trackers. These dashboards will replace the current global COVID-19 tracker which can be found [here](https://www.kff.org/coronavirus-covid-19/fact-sheet/coronavirus-tracker/). These upcoming dashboards will only contain data from the last 200 days, to limit large data files. The full data set can be found [here](). The data compiled here is pulled from Johns Hopkins University, Duke Global Health Innovation Center, Our World in Data, the Oxford Government Response Tracker, the World Bank, and the World Health Organization. 
+This folder contains all the data powering the upcoming KFF Global COVID-19 Trackers. These dashboards will replace the current global COVID-19 tracker which can be found [here](https://www.kff.org/coronavirus-covid-19/fact-sheet/coronavirus-tracker/). These upcoming dashboards will only contain data from the last 200 days, to limit large data files. The full data set can be found [here](https://github.com/KFFData/COVID-19-Data/blob/kff_master/Country%20Trend%20Data/country_trend_data.csv). The data compiled here is pulled from Johns Hopkins University, Duke Global Health Innovation Center, Our World in Data, the Oxford Government Response Tracker, the World Bank, and the World Health Organization. 
 
 ## Codebook
 - Country - Country name
