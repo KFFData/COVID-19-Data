@@ -32,3 +32,5 @@ This folder contains all the data powering the KFF Global COVID-19 Trackers. The
 - PolicyCategory - Policy category of government policy response
 - coding - Description of government policy response
 - PolicyDirection - Whether a policy is tightening or loosening in a country
+
+*These variables are not longitudinal and reflect the current number of doses purchased/potential vaccine coverage for that country at present. 
