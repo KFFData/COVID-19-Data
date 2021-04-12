@@ -33,4 +33,4 @@ This folder contains all the data powering the upcoming KFF Global COVID-19 Trac
 - coding - Description of government policy response
 - PolicyDirection - Whether a policy is tightening or loosening in a country
 
-* These variables are not longitudinal and reflect the country's vaccine doses purchased/potential vaccination coverage at present. 
+*These variables are not longitudinal and reflect the country's vaccine doses purchased/potential vaccination coverage at present. 
