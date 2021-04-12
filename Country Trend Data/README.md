@@ -1,5 +1,5 @@
 # Country Trend Data
-This folder contains all the data powering the KFF Global COVID-19 Trackers. The published dashboards only contain data from the last 200 days, to limit large data files. The full data set can be found here. The data compiled here is pulled from Johns Hopkins University, Duke Global Health Innovation Center, Our World in Data, the Oxford Government Response Tracker, the World Bank, and the World Health Organization. 
+This folder contains all the data powering the upcoming KFF Global COVID-19 Trackers. These dashboards will replace the current global COVID-19 tracker which can be found here. These upcoming dashboards will only contain data from the last 200 days, to limit large data files. The full data set can be found here. The data compiled here is pulled from Johns Hopkins University, Duke Global Health Innovation Center, Our World in Data, the Oxford Government Response Tracker, the World Bank, and the World Health Organization. 
 
 ## Codebook
 - Country - Country name
@@ -32,3 +32,5 @@ This folder contains all the data powering the KFF Global COVID-19 Trackers. The
 - PolicyCategory - Policy category of government policy response
 - coding - Description of government policy response
 - PolicyDirection - Whether a policy is tightening or loosening in a country
+
+* These variables are not longitudinal and reflect the country's vaccine doses purchased/potential vaccination coverage at present. 
