@@ -1,24 +1,24 @@
 ,Status of Reopening,Stay at Home Order,Mandatory Quarantine for Travelers,Non-Essential Business Closures,Large Gatherings Ban,Restaurant Limits,Bar Closures*,Statewide Face Mask Requirement,Emergency Declaration
-United States,Reopened (24); Easing Restrictions (25); Paused (1); New Restrictions Imposed (1),Stay at Home Order Lifted (43); New Stay at Home Order in Place (2); No Action (6),Traveler Quarantine Mandate in Place (8); Traveler Quarantine Mandate Lifted (24); No Action (19),All Non-Essential Businesses Open (26); Some or All Non-Essential Businesses Open with Limits (25),All Gatherings Prohibited (1); >10 Prohibited (13); >25 Prohibited (3); >50 Prohibited (6); Limit > 50 (3); No Limit (26),Open (29); Open with Service Limits (22),Open (29); Open with Service Limits (17); Closed (5),Yes (31); No (18),Yes (49); No (2)
+United States,Reopened (22); Easing Restrictions (26); Paused (2); New Restrictions Imposed (1),Stay at Home Order Lifted (43); New Stay at Home Order in Place (2); No Action (6),Traveler Quarantine Mandate in Place (8); Traveler Quarantine Mandate Lifted (24); No Action (19),All Non-Essential Businesses Open (26); Some or All Non-Essential Businesses Open with Limits (25),All Gatherings Prohibited (1); >10 Prohibited (13); >25 Prohibited (3); >50 Prohibited (6); Limit > 50 (5); No Limit (24),Open (28); Open with Service Limits (23),Open (28); Open with Service Limits (18); Closed (5),Yes (34); No (17),Yes (50); No (1)
 Alabama,Reopened,Lifted,-,All Non-Essential Businesses Open,No Limit,Open,Open,Yes,Yes
 Alaska,Reopened,Lifted,Lifted,All Non-Essential Businesses Open,No Limit,Open,Open,No,No
 Arizona,Reopened,Lifted,Lifted,All Non-Essential Businesses Open,No Limit,Open,Open,No,Yes
-Arkansas,Reopened,-,Lifted,All Non-Essential Businesses Open,No Limit,Open,Open,No,Yes
+Arkansas,Reopened,-,Lifted,All Non-Essential Businesses Open,No Limit,Open,Open,Yes,Yes
 California,Easing Restrictions,Lifted,-,Some Non-Essential Businesses Open with Limits,>25 Prohibited,Open with Service Limits,Closed,Yes,Yes
 Colorado,Easing Restrictions,Lifted,-,All Non-Essential Businesses Open with Limits,No Limit,Open with Service Limits,Open with Service Limits,Yes,Yes
 Connecticut,Easing Restrictions,Lifted,Lifted,All Non-Essential Businesses Open with Limits,>10 Prohibited,Open with Service Limits,Closed,Yes,Yes
 Delaware,Reopened,Lifted,Lifted,All Non-Essential Businesses Open with Limits,>10 Prohibited,Open with Service Limits,Open with Service Limits,Yes,Yes
 District of Columbia,Easing Restrictions,Lifted,From Certain States,Some Non-Essential Businesses Open with Limits,>10 Prohibited,Open with Service Limits,Closed,Yes,Yes
 Florida,Reopened,Lifted,Lifted,All Non-Essential Businesses Open,No Limit,Open,Open,No,Yes
-Georgia,Reopened,Lifted,-,All Non-Essential Businesses Open,No Limit,Open,Open,No,Yes
+Georgia,Paused,Rolled Back to High Risk Groups,-,All Non-Essential Businesses Open,>50 Prohibited,Open,Open,No,Yes
 Hawaii,Easing Restrictions,Lifted,All Travelers,Some Non-Essential Businesses Open with Limits,>10 Prohibited,Open,Open,Yes,Yes
 Idaho,Easing Restrictions,Lifted,Lifted,All Non-Essential Businesses Open,>50 Prohibited,Open,Open,No,Yes
 Illinois,Easing Restrictions,Lifted,-,All Non-Essential Businesses Open with Limits,>50 Prohibited,Open with Service Limits,Open with Service Limits,Yes,Yes
-Indiana,Reopened,Lifted,-,All Non-Essential Businesses Open,No Limit,Open,Open,No,Yes
+Indiana,Easing Restrictions,Lifted,-,All Non-Essential Businesses Open,Limit > 50,Open,Open,Yes,Yes
 Iowa,Reopened,-,-,All Non-Essential Businesses Open,No Limit,Open,Open,No,Yes
 Kansas,Reopened,Lifted,From Certain States,All Non-Essential Businesses Open,No Limit,Open,Open,Yes,Yes
 Kentucky,Easing Restrictions,Lifted,Lifted,All Non-Essential Businesses Open with Limits,No Limit,Open with Service Limits,Open with Service Limits,Yes,Yes
-Louisiana,Easing Restrictions,Lifted,-,All Non-Essential Businesses Open with Limits,Limit > 50,Open,Open,Yes,Yes
+Louisiana,Easing Restrictions,Lifted,-,Some Non-Essential Businesses Open with Limits,Limit > 50,Open with Service Limits,Open with Service Limits,Yes,Yes
 Maine,Easing Restrictions,Lifted,All Travelers,All Non-Essential Businesses Open with Limits,>50 Prohibited,Open with Service Limits,Open with Service Limits,Yes,Yes
 Maryland,Easing Restrictions,Lifted,Lifted,All Non-Essential Businesses Open with Limits,No Limit,Open,Open,Yes,Yes
 Massachusetts,Easing Restrictions,Rolled Back to High Risk Groups,Lifted,All Non-Essential Businesses Open with Limits,>10 Prohibited,Open,Open,Yes,Yes
@@ -49,5 +49,5 @@ Vermont,New Restrictions Imposed,Lifted,All Travelers,Some Non-Essential Busines
 Virginia,Easing Restrictions,Lifted,-,All Non-Essential Businesses Open with Limits,>10 Prohibited,Open with Service Limits,Open with Service Limits,Yes,Yes
 Washington,Easing Restrictions,Lifted,Lifted,All Non-Essential Businesses Open with Limits,>10 Prohibited,Open with Service Limits,Closed,Yes,Yes
 West Virginia,Reopened,Lifted,Lifted,All Non-Essential Businesses Open,Limit > 50,Open,Open,Yes,Yes
-Wisconsin,Reopened,Lifted,-,All Non-Essential Businesses Open,No Limit,Open,Open,No,No
+Wisconsin,Reopened,Lifted,-,All Non-Essential Businesses Open,No Limit,Open,Open,Yes,Yes
 Wyoming,Reopened,-,Lifted,All Non-Essential Businesses Open,No Limit,Open,Open,No,Yes
