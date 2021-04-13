@@ -1,0 +1,53 @@
+﻿Location,Race Categories Include Hispanic Individuals,% of Total White Population Vaccinated,% of Total Black Population Vaccinated,White to Black Ratio,Percentage Point Difference Between White and Black Rate,% of Total Hispanic Population Vaccinated,White to Hispanic Ratio,Percentage Point Difference Between White and Hispanic Rate,% of Total Asian Population Vaccinated,White to Asian Ratio,Percentage Point Difference Between White and Asian Rate,Footnotes
+United States,,0.25,0.15,1.68,-10,0.13,1.92,-11.9,0.23,1.1,-2.29,
+Alabama,Yes,0.14,0.1,1.39,-3.8,NR,NR,NR,0.16,0.86,2.31,"1. Data for Hispanic people are not reported because the majority of ethnicity data are missing for the state. 2. Data is as of 3/16, the most recently available data."
+Alaska,Yes,0.16,0.18,0.9,1.7,0.15,1.07,-1.1,0.22,0.73,5.79,
+Arizona,,0.26,0.13,2.1,-13.8,0.09,2.92,-17.3,0.25,1.04,-1.11,
+Arkansas,Yes,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,
+California,,0.25,0.17,1.47,-7.8,0.15,1.68,-9.9,0.24,1.03,-0.71,
+Colorado,,0.3,0.18,1.67,-12.1,0.11,2.87,-19.7,0.2,1.54,-10.54,
+Connecticut,,0.33,0.17,1.93,-15.8,0.13,2.62,-20.3,0.18,1.81,-14.63,
+Delaware,Yes,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,
+District of Columbia,Yes,0.18,0.14,1.27,-3.8,0.1,1.84,-8.2,NR,NR,NR,
+Florida,Yes,0.24,0.11,2.26,-13.5,0.12,1.94,-11.7,NR,NR,NR,
+Georgia,Yes,0.2,0.13,1.56,-7.2,0.05,3.94,-15,0.21,0.94,1.18,"3. As of 3/29, the state has removed reporting of vaccine data by race/ethnicity. Data is as of 3/22."
+Hawaii,Yes,0.27,0.14,1.99,-13.6,NR,NR,NR,0.3,0.9,3.17,
+Idaho,Yes,0.15,0.1,1.56,-5.6,0.07,2.24,-8.6,0.18,0.87,2.3,
+Illinois,,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,
+Indiana,Yes,0.26,0.15,1.76,-11.5,0.1,2.63,-16.4,0.2,1.34,-6.69,
+Iowa,Yes,0.27,0.09,3.17,-18.6,0.08,3.45,-19.2,0.14,1.98,-13.39,
+Kansas,Yes,0.22,0.12,1.77,-9.5,0.14,1.52,-7.4,0.16,1.37,-5.83,
+Kentucky,Yes,0.25,0.16,1.62,-9.7,NR,NR,NR,0.19,1.31,-5.94,
+Louisiana,Yes,0.24,0.21,1.18,-3.7,NR,NR,NR,0.32,0.76,7.56,
+Maine,,0.26,0.15,1.72,-11,0.16,1.67,-10.6,0.19,1.38,-7.23,4. Data will not reflect people receiving the single dose of the Janssen vaccine because the data reflects people receiving the first dose of two-dose vaccinations.
+Maryland,Yes,0.33,0.21,1.55,-11.5,0.13,2.48,-19.4,0.3,1.09,-2.64,
+Massachusetts,,0.31,0.21,1.46,-9.9,0.13,2.48,-18.6,0.19,1.61,-11.78,
+Michigan,,0.2,0.12,1.75,-8.2,0.07,2.72,-12.8,0.31,0.66,10.37,
+Minnesota,,0.27,0.13,2.03,-13.9,0.09,3.18,-18.7,0.16,1.71,-11.32,
+Mississippi,Yes,0.25,0.2,1.22,-4.5,0.13,1.91,-11.7,0.39,0.63,14.39,
+Missouri,Yes,0.2,0.12,1.72,-8.5,0.18,1.11,-2,0.18,1.1,-1.76,
+Montana,,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,
+Nebraska,Yes,0.11,0.07,1.62,-4.4,0.07,1.57,-4.1,0.13,0.85,2.01,
+Nevada,,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,
+New Hampshire,,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,
+New Jersey,,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,
+New Mexico,,0.35,0.2,1.75,-15,0.25,1.4,-10,0.38,0.92,3,5. New Mexico is excluded from the total across states due to non-comparable bridged race categories.
+New York,Yes,0.29,0.15,1.88,-13.4,0.15,1.89,-13.5,0.32,0.9,3.05,
+North Carolina,Yes,0.29,0.21,1.39,-8.3,0.14,2.14,-15.7,0.31,0.94,1.96,
+North Dakota,Yes,0.41,0.16,2.58,-24.9,0.2,2.06,-20.9,0.23,1.75,-17.5,6. North Dakota rates based on those reported directly on the state website; the state does not report the number of vaccinations by race/ethnicity. ND is excluded from the total across states because data on number of people vaccinated are not available.
+Ohio,Yes,0.28,0.16,1.81,-12.7,0.13,2.25,-15.7,0.25,1.12,-2.94,
+Oklahoma,Yes,0.21,0.13,1.65,-8.4,0.1,2.1,-11.2,0.27,0.78,6.13,4. Data will not reflect people receiving the single dose of the Janssen vaccine because the data reflects people receiving the first dose of two-dose vaccinations.
+Oregon,,0.26,0.22,1.15,-3.4,0.1,2.52,-15.4,0.22,1.16,-3.49,
+Pennsylvania,Yes,0.23,0.07,3.12,-15.9,0.06,3.9,-17.3,0.01,17.95,-22.02,7. Data does not include Philadelphia County due to differences in reporting data.
+Rhode Island,,0.3,0.15,1.96,-14.6,0.14,2.17,-16,0.15,2.04,-15.18,
+South Carolina,Yes,0.23,0.15,1.5,-7.5,0.09,2.42,-13.3,NR,NR,NR,
+South Dakota,,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,
+Tennessee,Yes,0.23,0.15,1.48,-7.3,0.13,1.8,-10,0.22,1.03,-0.61,
+Texas,,0.25,0.14,1.73,-10.5,0.15,1.69,-10.1,0.31,0.8,6.33,
+Utah,,0.27,0.11,2.43,-15.8,0.12,2.27,-15,0.19,1.45,-8.29,
+Vermont,Yes,0.3,0.12,2.57,-18.3,NR,NR,NR,0.19,1.56,-10.72,
+Virginia,,0.19,0.13,1.48,-6.2,0.13,1.5,-6.3,0.11,1.76,-8.15,
+Washington,,0.24,0.17,1.43,-7.2,0.12,1.97,-11.9,0.26,0.94,1.63,
+West Virginia,Yes,0.27,0.2,1.34,-6.9,NR,NR,NR,NR,NR,NR,4. Data will not reflect people receiving the single dose of the Janssen vaccine because the data reflects people receiving the first dose of two-dose vaccinations.
+Wisconsin,Yes,0.29,0.14,2.16,-15.8,0.13,2.28,-16.5,0.19,1.51,-9.89,
+Wyoming,,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,
