@@ -4,8 +4,8 @@
 
 #### State Data:
 <ul>
-  <li>Our COVID-19 dashboard presenting the state-level data can be found <a href="https://www.kff.org/health-costs/issue-brief/state-data-and-policy-actions-to-address-coronavirus/">here</a href>.</li>
-  <li>For more information on state-level data, see: <a href="https://www.kff.org/statedata/collection/covid-19-and-related-state-data/">COVID-19 and Related State Data</a href>.</li>
+  <li>Our COVID-19 dashboard presenting the state-level data can be found <a href="https://www.kff.org/coronavirus-covid-19/issue-brief/state-covid-19-data-and-policy-actions/">here</a href>.</li>
+  <li>For more information on state-level data, see: <a href="https://www.kff.org/state-category/covid-19/">COVID-19 and Related State Data</a href>.</li>
 </ul>
   
 #### Contact Us: 
