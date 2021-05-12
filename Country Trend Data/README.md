@@ -24,4 +24,4 @@ This dashboard contains information related to COVID-19 cases and deaths globall
 Currently, these data are unavailable as we work to update and replace our existing dashboard tracking governments' policy actions in response to COVID-19. In the meantime, other helpful resources include the [Oxford Covid-19 Government Response Tracker (OxCGRT)](https://github.com/OxCGRT/covid-policy-tracker).
 
 ## Global COVID-19 Vaccine Dashboard
-Currently, these data are unavailable as we work to create our  dashboard tracking COVID-19 vaccinations. In the meantime, other helpful resources include data from Our World in Data (https://github.com/owid/covid-19-data/tree/master/public/data/vaccinations).
+Currently, these data are unavailable as we work to create our  dashboard tracking COVID-19 vaccinations. In the meantime, other helpful resources include vaccinations data from Our World in Data (https://github.com/owid/covid-19-data/tree/master/public/data/vaccinations).
