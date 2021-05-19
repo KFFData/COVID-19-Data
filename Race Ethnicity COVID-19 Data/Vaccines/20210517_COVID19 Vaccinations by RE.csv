@@ -1,0 +1,52 @@
+﻿Location,Race Categories Include Hispanic Individuals,White % of Vaccinations,Black % of Vaccinations,Hispanic % of Vaccinations,Asian % of Vaccinations,American Indian or Alaska Native % of Vaccinations,Native Hawaiian or Other Pacific Islander % of Vaccinations,Other % of Vaccinations,% of Vaccinations with Known Race,% of Vaccinations with Unknown Race,% of Vaccinations with Known Ethnicity,% of Vaccinations with Unknown Ethnicity,Footnotes
+Alabama,Yes,0.69,0.24,0.05,0.02,<.01,<.01,0.04,0.85,0.15,0.53,0.47,1. Data for Hispanic people prior to 5/10 are not reported because the majority of ethnicity data were missing for the state.
+Alaska,Yes,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,2. Data not reported due to unresolved data issues.
+Arizona,,0.55,0.03,0.15,0.04,0.03,NR,0.2,0.86,0.14,0.86,0.14,
+Arkansas,Yes,0.8,0.12,0.06,0.02,<.01,<.01,0.05,0.92,0.08,NR,NR,
+California,,0.39,0.04,0.27,0.18,<.01,0.01,0.11,0.94,0.06,0.94,0.06,"3. As of 4/26, state made changes or corrections to data reporting by race/ethnicity. Data should not be compared to earlier periods due to these data changes or corrections."
+Colorado,,0.79,0.03,0.11,0.03,0.01,<.01,0.03,0.87,0.13,0.87,0.13,
+Connecticut,,0.7,0.06,0.12,0.05,<.01,NR,0.07,0.95,0.05,0.95,0.05,"3. As of 4/26, state made changes or corrections to data reporting by race/ethnicity. Data should not be compared to earlier periods due to these data changes or corrections."
+Delaware,Yes,0.69,0.15,0.07,0.05,NR,NR,0.12,0.95,0.05,0.86,0.14,
+District of Columbia,Yes,0.41,0.31,0.12,NR,NR,NR,0.28,0.88,0.12,0.71,0.29,
+Florida,Yes,0.78,0.08,0.25,NR,<.01,NR,0.13,0.85,0.15,0.67,0.33,
+Georgia,Yes,0.59,0.25,0.07,0.07,<.01,NR,0.09,0.94,0.06,0.87,0.13,
+Hawaii,Yes,0.27,0.01,NR,0.53,NR,0.16,0.03,0.82,0.18,NR,NR,
+Idaho,Yes,0.83,0.01,0.09,0.02,0.01,<.01,0.13,0.76,0.24,0.65,0.35,
+Illinois,,0.66,0.1,0.13,0.07,<.01,<.01,0.04,0.94,0.06,0.94,0.06,
+Indiana,Yes,0.86,0.07,0.05,0.03,NR,NR,0.04,0.95,0.05,0.93,0.07,
+Iowa,Yes,0.93,0.02,0.03,0.02,<.01,<.01,0.02,0.86,0.14,0.81,0.19,
+Kansas,Yes,0.8,0.04,0.1,0.03,<.01,<.01,0.13,0.88,0.12,0.82,0.18,
+Kentucky,Yes,0.84,0.06,NR,0.02,<.01,<.01,0.09,0.93,0.07,NR,NR,
+Louisiana,Yes,0.6,0.29,0.06,0.03,<.01,<.01,0.07,0.86,0.14,0.96,0.04,
+Maine,,0.85,0.01,0.02,0.01,<.01,<.01,0.1,0.92,0.08,0.77,0.23,
+Maryland,Yes,0.59,0.24,0.08,0.08,0.01,<.01,0.07,0.94,0.06,0.94,0.06,
+Massachusetts,,0.76,0.05,0.08,0.08,<.01,<.01,0.02,0.91,0.09,0.91,0.09,
+Michigan,,0.77,0.09,0.04,0.04,0.01,NR,0.06,0.76,0.24,0.76,0.24,
+Minnesota,,0.85,0.04,0.04,0.06,0.01,NR,<.01,0.9,0.1,0.9,0.1,
+Mississippi,Yes,0.57,0.34,0.02,0.02,<.01,<.01,0.06,NR,NR,0.91,0.09,
+Missouri,Yes,0.83,0.08,0.05,0.03,<.01,<.01,0.05,NR,NR,NR,NR,"4. The state dashboard reports that the number of vaccinations of multiracial people are being overcounted due to a technical issue. As of 5/6, state made changes or corrections to data reporting by race/ethnicity. Data should not be compared to earlier periods due to these data changes or corrections."
+Montana,,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,
+Nebraska,Yes,0.87,0.03,0.08,0.03,<.01,<.01,0.06,0.96,0.04,0.93,0.07,"5. As of 4/12, KFF began reporting the sum of partially and fully vaccinated people for Nebraska; previous periods reflected partially vaccinated or first dose administered counts."
+Nevada,,0.46,0.06,0.23,0.11,0.01,NR,0.13,NR,NR,NR,NR,"3. As of 4/26, state made changes or corrections to data reporting by race/ethnicity. Data should not be compared to earlier periods due to these data changes or corrections."
+New Hampshire,,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,
+New Jersey,,0.58,0.07,0.14,0.11,NR,NR,0.1,0.92,0.08,0.92,0.08,
+New Mexico,,0.44,0.02,0.4,0.03,0.09,NR,0.03,0.91,0.09,0.91,0.09,
+New York,Yes,0.73,0.11,0.16,0.14,NR,NR,0.02,NR,NR,NR,NR,
+North Carolina,Yes,0.71,0.18,0.07,0.05,0.01,NR,0.06,0.95,0.05,0.9,0.1,
+North Dakota,Yes,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,6. North Dakota reports vaccination rates by race/ethnicity but does not report vaccine distribution by race/ethnicity.
+Ohio,Yes,0.83,0.08,0.04,0.03,<.01,<.01,0.06,0.95,0.05,0.81,0.19,
+Oklahoma,Yes,0.81,0.06,0.1,0.04,0.05,NR,0.04,0.78,0.22,0.71,0.29,
+Oregon,,0.76,0.02,0.08,0.06,0.02,0.01,0.05,0.91,0.09,0.91,0.09,
+Pennsylvania,Yes,0.85,0.05,0.05,<.01,<.01,<.01,0.1,0.87,0.13,0.74,0.26,7. Data does not include Philadelphia County due to differences in reporting data.
+Rhode Island,,0.8,0.04,0.12,0.04,<.01,<.01,NR,NR,NR,NR,NR,
+South Carolina,Yes,0.63,0.2,0.04,NR,NR,NR,0.13,0.93,0.07,0.87,0.13,"8. South Carolina reports data for Asian, NHOPI, and AIAN people as a single category. We report this data in the ""Other"" category."
+South Dakota,,0.94,0.01,<.01,<.01,0.02,NR,0.02,0.91,0.09,0.76,0.24,
+Tennessee,Yes,0.72,0.12,0.05,0.02,NR,NR,0.13,0.93,0.07,0.88,0.12,
+Texas,,0.42,0.08,0.33,0.07,NR,NR,0.1,0.91,0.09,0.91,0.09,
+Utah,,0.8,0.01,0.1,0.03,0.01,0.01,0.04,0.88,0.12,0.88,0.12,9. Individuals may identify as more than one race or ethnicity; totals may not sum to 100%.
+Vermont,Yes,0.96,0.01,0.02,0.02,<.01,<.01,0.01,0.95,0.05,0.87,0.13,
+Virginia,,0.61,0.14,0.13,0.05,0.01,NR,0.06,0.58,0.42,0.58,0.42,
+Washington,,0.64,0.03,0.08,0.12,0.01,0.01,0.1,0.93,0.07,0.93,0.07,
+West Virginia,Yes,0.93,0.03,NR,NR,NR,NR,0.04,0.93,0.07,NR,NR,
+Wisconsin,Yes,0.92,0.04,0.05,0.03,0.01,NR,0.04,0.93,0.07,0.94,0.06,
+Wyoming,,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,
