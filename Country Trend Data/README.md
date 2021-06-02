@@ -12,13 +12,17 @@ This dashboard contains information related to COVID-19 cases and deaths globall
 - Confirmed Deaths - Cumulative number of confirmed COVID-19 deaths
 - New Cases - Number of new COVID-19 cases (daily)
 - New Deaths - Number of new COVID-19 deaths (daily)
-- Income - Country income group as defined by the World Bank. (NOTE: Not all countries included have a World Bank incomc classification.)
-- Region - Country region as defined by the World Health Organization. (NOTE: Not all countries included have a WHO region classification.)
-- Population - 2020 total population estimate according to the United Nations' World Population Prospects.
-- cpm - Cumulative number of confirmed COVID-19 cases per 1,000,000 people.
-- dpm - Cumulative number of confirmed COVID-19 deaths per 1,000,000 people.
-- Case_Change_7_Day_Rolling_Average - 7-day rolling average in new COVID-19 cases.
-- Death_Change_7_Day_Rolling_Average - 7-day rolling average in new COVID-19 deaths.
+- Income - Country income group as defined by the World Bank (NOTE: Not all countries included have a World Bank incomc classification.)
+- Region - Country region as defined by the World Health Organization (NOTE: Not all countries included have a WHO region classification.)
+- Population - 2020 total population estimate according to the United Nations' World Population Prospects
+- cpm - Cumulative number of confirmed COVID-19 cases per 1,000,000 people
+- dpm - Cumulative number of confirmed COVID-19 deaths per 1,000,000 people
+- Case_Change_7_Day_Rolling_Average - 7-day rolling average in new COVID-19 cases
+- Death_Change_7_Day_Rolling_Average - 7-day rolling average in new COVID-19 deaths
+- cpm_income - Cumulative cases per million by World Bank income-level
+- dmp_income - Cumulative deaths per million by WHO region
+- cmp_region - Cumulative cases per million by World Bank income-level
+- dpm_region - Cumulative deaths per million by WHO region
 
 ## Global COVID-19 Policy Actions Dashboard
 Currently, these data are unavailable as we work to update and replace our existing dashboard tracking governments' policy actions in response to COVID-19. In the meantime, other helpful resources include the [Oxford Covid-19 Government Response Tracker (OxCGRT)](https://github.com/OxCGRT/covid-policy-tracker).
