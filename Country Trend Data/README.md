@@ -24,19 +24,6 @@ This dashboard contains information related to COVID-19 cases and deaths globall
 - cmp_region - Cumulative cases per million by World Bank income-level
 - dpm_region - Cumulative deaths per million by WHO region
 
-## Global COVID-19 Policy Actions Dashboard
-This dashboard contains information related to COVID-19 policy responses globally. Data is sourced from the Oxford Covid-19 Government Response Tracker, World Bank, and the World Health Organization. The data for this dashboard can be found under **policy_actions.csv**. 
-
-### Codebook
-
-- Country - Country/area name
-- Date - Date of observation
-- Policy Category - Whether a policy is considered a closure response, economic response, or health-related response.
-- Policy Value - Range of values based on Oxford Covid-19 Government Response Tracker's [codebook](https://github.com/OxCGRT/covid-policy-tracker/blob/master/documentation/codebook.md)
-- Policy Value Description - Description of policy action based on Oxford Covid-19 Government Response Tracker's [codebook](https://github.com/OxCGRT/covid-policy-tracker/blob/master/documentation/codebook.md)
-- Income - Country income group as defined by the World Bank
-- Region - Country region as defined by the World Health Organization
-
 ## Global COVID-19 Vaccine Dashboard
 This dashboard contains information related to COVID-19 vaccines procured and administered globally. Data is sourced from Our World in Data, Duke Launch and Scale Speedometer, United Nations, World Bank, and the World Health Organization. The data for this dashboard can be found under **vaccines.csv**. Variables related to doses procured are a snapshot of current estimates, whereas variables related to vaccines administered are time-series.
 
@@ -70,3 +57,16 @@ This dashboard contains information related to COVID-19 vaccines procured and ad
   - Daily Vaccinations per Million by Region - Total number of doses administered per day per 1 million people by region-level
   - Share of Population With At Least One Dose by Region - Share of region-level population that has received at least one dose
   - Share of Population Fully Vaccinated by Region - Share of region-level population that is fully vaccinated
+
+## Global COVID-19 Policy Actions Table
+This tracker contains information related to COVID-19 policy responses globally. Data is sourced from the Oxford Covid-19 Government Response Tracker, World Bank, and the World Health Organization. The data for this dashboard can be found under **policy_actions.csv**. 
+
+### Codebook
+
+- Country - Country/area name
+- Date - Date of observation
+- Policy Category - Whether a policy is considered a closure response, economic response, or health-related response.
+- Policy Value - Range of values based on Oxford Covid-19 Government Response Tracker's [codebook](https://github.com/OxCGRT/covid-policy-tracker/blob/master/documentation/codebook.md)
+- Policy Value Description - Description of policy action based on Oxford Covid-19 Government Response Tracker's [codebook](https://github.com/OxCGRT/covid-policy-tracker/blob/master/documentation/codebook.md)
+- Income - Country income group as defined by the World Bank
+- Region - Country region as defined by the World Health Organization
