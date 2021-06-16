@@ -57,15 +57,6 @@ This dashboard contains information related to COVID-19 vaccines procured and ad
 - Share of Population With At Least One Dose by Region - % of region's total population that has received at least one dose
 
 ## Global COVID-19 Policy Actions Table (forthcoming)
-This tracker contains information related to COVID-19 policy responses globally. Data is sourced from the Oxford Covid-19 Government Response Tracker, World Bank, and the World Health Organization. The data for this dashboard can be found under **policy_actions.csv**. 
+This tracker contains information related to COVID-19 policy responses globally. Data is sourced from the Oxford Covid-19 Government Response Tracker, World Bank, and the World Health Organization. 
 
-### Codebook
-- Country - Country/area name
-- Date - Date of observation
-- Policy Category - Sector of policy (Health, Closure, or Economic Policies)
-- Policy Type - Specific policy action
-- Policy Value - Numeric scale using the Oxford Covid-19 Government Response Tracker [codebook](https://github.com/OxCGRT/covid-policy-tracker/blob/master/documentation/codebook.md)
-- Polidy Value Description - Policy value description using the Oxford Covid-19 Government Response Tracker [codebook](https://github.com/OxCGRT/covid-policy-tracker/blob/master/documentation/codebook.md)
-- Policy Value Description KFF - Policy value description using a more concise coding scale
-- Income - Country income group as defined by the World Bank (NOTE: Not all countries included have a World Bank incomc classification.)
-- Region - Country region as defined by the World Health Organization (NOTE: Not all countries included have a WHO region classification.)
+
