@@ -1,0 +1,53 @@
+﻿Location,Race Categories Include Hispanic Individuals,% of Total White Population Vaccinated,% of Total Black Population Vaccinated,White to Black Ratio,Percentage Point Difference Between White and Black Rate,% of Total Hispanic Population Vaccinated,White to Hispanic Ratio,Percentage Point Difference Between White and Hispanic Rate,% of Total Asian Population Vaccinated,White to Asian Ratio,Percentage Point Difference Between White and Asian Rate,Footnotes
+United States,,0.45,0.32,1.43,-13.57,0.36,1.25,-9.01,0.59,0.77,13.65,
+Alabama,Yes,0.3,0.28,1.08,-2.23,0.23,1.34,-7.6,0.55,0.55,24.5,1. Data for Hispanic people prior to 5/10 are not reported because the majority of ethnicity data were missing for the state.
+Alaska,Yes,0.37,0.42,0.87,5.44,0.28,1.32,-9.04,0.51,0.72,14.04,
+Arizona,,0.43,0.28,1.51,-14.47,0.22,1.93,-20.69,0.55,0.78,12.08,
+Arkansas,Yes,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,
+California,,0.57,0.41,1.39,-15.86,0.4,1.43,-17.19,0.66,0.86,9.21,"2. As of 4/26, state made changes or corrections to data reporting by race/ethnicity. Data should not be compared to earlier periods due to these data changes or corrections."
+Colorado,,0.56,0.42,1.33,-13.97,0.25,2.26,-31.49,0.53,1.06,-3.43,
+Connecticut,,0.62,0.4,1.55,-22.2,0.46,1.36,-16.57,0.66,0.94,3.74,"2. As of 4/26, state made changes or corrections to data reporting by race/ethnicity. Data should not be compared to earlier periods due to these data changes or corrections."
+Delaware,Yes,0.5,0.35,1.43,-15.02,0.38,1.32,-12.2,0.59,0.85,9.09,
+District of Columbia,Yes,0.4,0.28,1.43,-12.1,0.4,1.01,-0.4,0.49,0.81,9.51,
+Florida,,0.48,0.23,2.1,-25.39,0.36,1.35,-12.64,NR,NR,NR,"3. As of 6/14, state made changes or corrections to data reporting by race/ethnicity. Data should not be compared to earlier periods due to these data changes or corrections."
+Georgia,Yes,0.39,0.32,1.23,-7.22,0.29,1.35,-9.96,0.69,0.56,29.94,
+Hawaii,Yes,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,
+Idaho,Yes,0.28,0.29,0.94,1.72,0.2,1.39,-7.84,0.45,0.62,17.07,
+Illinois,,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,
+Indiana,Yes,0.44,0.31,1.39,-12.11,0.33,1.31,-10.31,0.61,0.72,17.17,
+Iowa,Yes,0.45,0.21,2.18,-24.48,0.26,1.71,-18.76,0.45,1.01,-0.55,
+Kansas,Yes,0.37,0.29,1.29,-8.36,0.33,1.14,-4.67,0.46,0.81,8.54,
+Kentucky,Yes,0.38,0.3,1.26,-7.95,NR,NR,NR,0.46,0.83,8.01,
+Louisiana,Yes,0.36,0.34,1.05,-1.63,0.35,1.03,-1.13,0.64,0.56,28.42,
+Maine,,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,"3. As of 6/14, state made changes or corrections to data reporting by race/ethnicity. Data should not be compared to earlier periods due to these data changes or corrections; 4. Data will not reflect people receiving the single dose of the Janssen vaccine because the data reflects people receiving the first dose of two-dose vaccinations."
+Maryland,Yes,0.59,0.46,1.27,-12.34,0.47,1.25,-11.77,0.69,0.85,10.74,
+Massachusetts,,0.66,0.51,1.29,-14.61,0.47,1.41,-19.02,0.71,0.93,5.15,
+Michigan,,0.38,0.26,1.45,-11.74,0.3,1.28,-8.34,0.45,0.85,6.47,
+Minnesota,,0.52,0.37,1.42,-15.34,0.37,1.41,-15.08,0.56,0.92,4.47,
+Mississippi,Yes,0.34,0.33,1.04,-1.43,0.28,1.21,-5.92,0.68,0.5,33.55,
+Missouri,Yes,0.36,0.29,1.28,-7.97,0.43,0.84,6.98,0.56,0.66,19.12,"5. As of 5/6, state made changes or corrections to data reporting by race/ethnicity. Data should not be compared to earlier periods due to these data changes or corrections."
+Montana,,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,
+Nebraska,Yes,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,"6. As of 4/12, KFF began reporting the sum of partially and fully vaccinated people for Nebraska; previous periods reflected partially vaccinated or first dose administered counts. As of 6/7, Nebraska does not report race/ethnicity data for people who have received at least one dose."
+Nevada,,0.36,0.24,1.5,-11.96,0.32,1.13,-4.09,0.47,0.76,11.57,"2. As of 4/26, state made changes or corrections to data reporting by race/ethnicity. Data should not be compared to earlier periods due to these data changes or corrections."
+New Hampshire,,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,
+New Jersey,,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,
+New Mexico,,0.61,0.43,1.43,-18.3,0.47,1.31,-14.5,0.83,0.74,21.6,7. New Mexico is excluded from the total across states due to non-comparable bridged race categories.
+New York,Yes,0.5,0.34,1.49,-16.49,0.43,1.18,-7.53,0.75,0.67,24.8,
+North Carolina,Yes,0.44,0.36,1.22,-7.83,0.35,1.27,-9.4,0.67,0.66,23,
+North Dakota,Yes,0.56,0.34,1.67,-22.4,0.34,1.66,-22.2,0.49,1.14,-6.7,8. North Dakota rates based on those reported directly on the state website; the state does not report the number of vaccinations by race/ethnicity. ND is excluded from the total across states because data on number of people vaccinated are not available.
+Ohio,Yes,0.46,0.33,1.42,-13.62,0.37,1.23,-8.77,0.69,0.67,22.39,
+Oklahoma,Yes,0.32,0.24,1.34,-8.05,0.24,1.3,-7.38,0.55,0.58,23.02,9. Data prior to 5/24 will not reflect people receiving the single dose of the Janssen vaccine because the data reflects people receiving the first dose of two-dose vaccinations.
+Oregon,,0.52,0.63,0.81,11.97,0.33,1.56,-18.47,0.66,0.78,14.36,
+Pennsylvania,Yes,0.48,0.22,2.14,-25.52,0.29,1.65,-18.88,0.13,3.67,-34.86,10. Data does not include Philadelphia County due to differences in reporting data.
+Rhode Island,,0.59,0.42,1.42,-17.34,0.42,1.42,-17.34,0.62,0.96,2.55,
+South Carolina,Yes,0.34,0.28,1.22,-6.13,0.29,1.19,-5.41,NR,NR,NR,
+South Dakota,,0.44,0.19,2.3,-24.89,0.03,13.73,-40.82,0.09,5.16,-35.49,
+Tennessee,Yes,0.34,0.28,1.21,-5.8,0.34,1,0.04,0.47,0.72,12.93,
+Texas,,0.42,0.3,1.38,-11.67,0.36,1.16,-5.66,0.62,0.68,20,
+Utah,,0.45,0.28,1.58,-16.38,0.32,1.37,-12.13,0.41,1.1,-4.1,
+Vermont,Yes,0.69,0.48,1.41,-20.07,0.82,0.84,13.45,0.73,0.94,4.59,
+Virginia,,0.31,0.26,1.23,-5.88,0.47,0.67,15.52,0.29,1.08,-2.36,
+Washington,,0.47,0.41,1.13,-5.54,0.34,1.37,-12.64,0.66,0.71,19.45,
+West Virginia,Yes,0.43,0.39,1.09,-3.6,NR,NR,NR,NR,NR,NR,11. Data prior to 4/12 will not reflect people receiving the single dose of the Janssen vaccine because the data reflects people receiving the first dose of two-dose vaccinations.
+Wisconsin,Yes,0.48,0.31,1.58,-17.69,0.35,1.37,-13.01,0.52,0.92,4.28,
+Wyoming,,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,
