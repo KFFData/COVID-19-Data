@@ -46,15 +46,19 @@ This dashboard contains information related to COVID-19 vaccines procured and ad
 - Total Vaccinations - Cumulative number of doses administered by country
 - Daily Vaccinations - 7-day rolling average of doses administered per day by country
 - People With At Least One Dose - Number of people who have received at least one dose by country
+- People Fully Vaccinated - Number of people who have are fully vaccinated by country
 - Total Vaccinations per Million - Cumulative number of doses administered by country per million people
 - Daily Vaccinations per Million - 7-day rolling average of doses administered per day per million people by country
 - Share of Population With At Least One Dose - % of country's total population that has received at least one dose
+- Share of Population Fully Vaccinated - % of country's total population that are fully vaccinated
 - Total Vaccinations per Million by Income - Cumulative number of doses administered by income-level per million people
 - Daily Vaccinations per Million by Income - 7-day rolling average of doses administered per day per million people by income-level
 - Share of Population With At Least One Dose by Income - % of income-level's total population that has received at least one dose
+- Share of Population Fully Vaccinated by Income - % of income-level's total population that are fully vaccinated
 - Total Vaccinations per Million by Region - Cumulative number of doses administered by region per million people
 - Daily Vaccinations per Million by Region - 7-day rolling average of doses administered per day per million people by region
 - Share of Population With At Least One Dose by Region - % of region's total population that has received at least one dose
+- Share of Population Fully Vaccinated by Region - % of region's total population that are fully vaccinated
 
 ## Global COVID-19 Policy Actions Table (forthcoming)
 This tracker contains information related to COVID-19 policy responses globally. Data is sourced from the Oxford Covid-19 Government Response Tracker, World Bank, and the World Health Organization. 
