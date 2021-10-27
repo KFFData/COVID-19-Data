@@ -24,7 +24,7 @@ This dashboard contains information related to COVID-19 cases and deaths globall
 - cmp_region - Cumulative cases per million by World Bank income-level
 - dpm_region - Cumulative deaths per million by WHO region
 
-## Global COVID-19 Vaccine Dashboard (forthcoming)
+## Vaccines (forthcoming)
 This dashboard contains information related to COVID-19 vaccines procured and administered globally. Data is sourced from Our World in Data, Duke Launch and Scale Speedometer, United Nations, World Bank, and the World Health Organization. The data for this dashboard can be found under **vaccines.csv**. Variables related to doses procured are a snapshot of current estimates, whereas variables related to vaccines administered are time-series. 
 
 ### Codebook
