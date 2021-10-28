@@ -2,7 +2,7 @@
 This folder contains all the data powering the upcoming KFF Global COVID-19 Trackers. These dashboards will replace the current global COVID-19 tracker which can be found [here](https://www.kff.org/coronavirus-covid-19/fact-sheet/coronavirus-tracker/). These upcoming dashboards will only contain select data, to limit large data files. However, the full data sets can be found here. 
 
 ## Cases/Deaths
-This dashboard contains information related to COVID-19 cases and deaths globally. Data is sourced from the Johns Hopkins University, World Bank, United Nations, and the World Health Organization. The data for this dashboard can be found under **global_covid_metrics.csv**. 
+This dashboard contains information related to COVID-19 cases and deaths globally. Data is sourced from the Johns Hopkins University, World Bank, United Nations, and the World Health Organization. The data for this dashboard can be found under **global_covid_metrics.csv**. Because of GitHub file size limits, this data has been separated into two datasets: global_covid_metrics2020.csv (containing 2020 data) and global_covid_metrics2021.csv (containing 2021 data). 
 
 ### Codebook
 
