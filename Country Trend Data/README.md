@@ -9,15 +9,30 @@ This dashboard contains information related to COVID-19 cases and deaths globall
 - Country - Country/area name
 - Date - Date of observation
 - Confirmed Cases - Cumulative number of confirmed COVID-19 cases
-- Confirmed Deaths - Cumulative number of confirmed COVID-19 deaths
 - New Cases - Number of new COVID-19 cases (weekly)
+- Confirmed Deaths - Cumulative number of confirmed COVID-19 deaths
 - New Deaths - Number of new COVID-19 deaths (weekly)
 - Income - Country income group as defined by the World Bank (NOTE: Not all countries included have a World Bank incomc classification.)
 - Region - Country region as defined by the World Health Organization (NOTE: Not all countries included have a WHO region classification.)
 - Population - 2020 total population estimate according to the United Nations' World Population Prospects (NOTE: Some country populations have been adjusted to account for protectorates)
 - cpm - Cumulative number of confirmed COVID-19 cases per 1,000,000 people
 - dpm - Cumulative number of confirmed COVID-19 deaths per 1,000,000 people
-- cpm_income - Cumulative cases per million by World Bank income-level
-- dmp_income - Cumulative deaths per million by WHO region
-- cmp_region - Cumulative cases per million by World Bank income-level
-- dpm_region - Cumulative deaths per million by WHO region
+- new_cases_per_million - New weekly COVID-19 cases per 1,000,000 people
+- new_deaths_per_million - New weekly COVID-19 deaths per 1,000,000 people
+- cases_income - Cumulative number of confirmed COVID-19 cases by income-level
+- deaths_income - Cumulative number of confirmed COVID-19 deaths by income-level
+- new_cases_income - New weekly COVID-19 cases by income-level
+- new_deaths_income - New weekly COVID-19 deaths by income-level
+- cpm_income - Cumulative cases per million by income-level
+- dmp_income - Cumulative deaths per million by income-level
+- new_cpm_income - New weekly cases per million by income-level
+- new_dpm_income - New weekly deaths per million by income-level
+- cases_region - Cumulative number of confirmed COVID-19 cases by region
+- deaths_region - Cumulative number of confirmed COVID-19 deaths by region
+- new_cases_region - New weekly COVID-19 cases by region
+- new_deaths_region - New weekly COVID-19 deaths by region
+- cpm_region - Cumulative cases per million by region
+- dmp_region - Cumulative deaths per million by region
+- new_cpm_region - New weekly cases per million by region
+- new_dpm_region - New weekly deaths per million by region
+
