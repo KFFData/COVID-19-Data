@@ -10,15 +10,13 @@ This dashboard contains information related to COVID-19 cases and deaths globall
 - Date - Date of observation
 - Confirmed Cases - Cumulative number of confirmed COVID-19 cases
 - Confirmed Deaths - Cumulative number of confirmed COVID-19 deaths
-- New Cases - Number of new COVID-19 cases (daily)
-- New Deaths - Number of new COVID-19 deaths (daily)
+- New Cases - Number of new COVID-19 cases (weekly)
+- New Deaths - Number of new COVID-19 deaths (weekly)
 - Income - Country income group as defined by the World Bank (NOTE: Not all countries included have a World Bank incomc classification.)
 - Region - Country region as defined by the World Health Organization (NOTE: Not all countries included have a WHO region classification.)
 - Population - 2020 total population estimate according to the United Nations' World Population Prospects (NOTE: Some country populations have been adjusted to account for protectorates)
 - cpm - Cumulative number of confirmed COVID-19 cases per 1,000,000 people
 - dpm - Cumulative number of confirmed COVID-19 deaths per 1,000,000 people
-- Case_Change_7_Day_Rolling_Average - 7-day rolling average in new COVID-19 cases
-- Death_Change_7_Day_Rolling_Average - 7-day rolling average in new COVID-19 deaths
 - cpm_income - Cumulative cases per million by World Bank income-level
 - dmp_income - Cumulative deaths per million by WHO region
 - cmp_region - Cumulative cases per million by World Bank income-level
